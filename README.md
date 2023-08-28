@@ -1,4 +1,4 @@
-# GitHub Username Checker
+# GitHub Username Checker (kinda broke, API ratelimits, fixing eventually)
 
 This is a Python script that checks a list of GitHub usernames to see if they are available or taken. 
 
@@ -15,12 +15,6 @@ This is a Python script that checks a list of GitHub usernames to see if they ar
 This script requires the `requests` and `colorama` Python packages to be installed. You can install them using the following command:
 
 ```pip install requests colorama```
-
-## Example
-
-Here's an example of what the output might look like:
-
-![example_output](example_output.png)
 
 ## Contributing
 
